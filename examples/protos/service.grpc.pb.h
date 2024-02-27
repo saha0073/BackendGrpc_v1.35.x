@@ -28,6 +28,8 @@
 
 namespace service {
 
+// pasted  upto line 6405 of .pb.cc to GPT -- start after that
+//
 // Define the service with its RPC methods.
 class ConvaiService final {
  public:
